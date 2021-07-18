@@ -1,0 +1,572 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MEC Fluent-view Layouts\n"
+"POT-Creation-Date: 2021-06-29 09:59+0430\n"
+"PO-Revision-Date: 2021-07-01 16:13+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: mec-fluent-layouts.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: mec_FL\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: core/checkLicense/check-activation.php:205
+msgid ""
+"Activation faild. Please check your purchase code or license type."
+"<br><b>Note: Your purchase code should match your licesne type.</b>"
+msgstr ""
+"Aktivierung fehlgeschlagen. Bitte prüfen Sie Ihren Einkaufs Code oder "
+"Lizenztyp.<br><b>Hinweis: Ihr Einkaufscode sollte mit Ihrem Lizenztyp "
+"übereinstimmen.</b>"
+
+#: core/checkLicense/check-activation.php:205
+msgid "Troubleshooting"
+msgstr "Problembehebung"
+
+#: core/modules/booking/steps/checkout.php:34
+msgid "Checkout"
+msgstr "Check-Out"
+
+#: core/modules/booking/steps/checkout.php:39
+msgid "Ticket(s) Name"
+msgstr "Bezeichnung"
+
+#: core/modules/booking/steps/checkout.php:40
+msgid "Qty"
+msgstr "Stk"
+
+#: core/modules/booking/steps/checkout.php:41
+msgid "Amount"
+msgstr "Betrag"
+
+#: core/modules/booking/steps/checkout.php:66
+msgid "Total Due"
+msgstr "Gesamtbetrag"
+
+#: core/modules/booking/steps/checkout.php:73
+msgid "Discount Coupon"
+msgstr "Rabattgutschein"
+
+#: core/modules/booking/steps/checkout.php:77
+msgid "Apply Coupon"
+msgstr "Gutschein verwenden"
+
+#: core/modules/booking/steps/checkout.php:102
+msgid "Back"
+msgstr "Zurück"
+
+#: core/modules/booking/steps/checkout.php:110
+msgid "Free Booking"
+msgstr "Kostenlose Buchung"
+
+#: core/pluginBase/mec-fluent.php:153
+msgid "Fluent-view Layout Styles"
+msgstr "Fluent-Ansicht Layout Stile"
+
+#: core/pluginBase/mec-fluent.php:155
+msgid "Disable MEC Fluent Layouts height limitation"
+msgstr "Deaktiviere MEC Fluent Layout Höhenbegrenzung"
+
+#: core/pluginBase/mec-fluent.php:164 core/pluginBase/mec-fluent.php:170
+msgid "Main Color"
+msgstr "Hauptfarbe"
+
+#: core/pluginBase/mec-fluent.php:172
+msgid ""
+"The main color is for fluent and includes the color of icons and hover titles"
+msgstr ""
+"Die Hauptfarbe ist für fluent und beinhaltet die Farbe der Icons und Hover "
+"Titel"
+
+#: core/pluginBase/mec-fluent.php:182 core/pluginBase/mec-fluent.php:188
+msgid "Second Color"
+msgstr "Zweite Farbe"
+
+#: core/pluginBase/mec-fluent.php:190
+msgid ""
+"The second color is for the main color but can be more pronounced. You can "
+"set it on that same range"
+msgstr ""
+"Die zweite Farbe ist für die Hauptfarbe, aber diese kann stärker "
+"hervorgehoben sein. Sie können es auf den gleichen Bereich setzen"
+
+#: core/pluginBase/mec-fluent.php:200
+msgid "Button Hover Color"
+msgstr "Button Markierungsfarbe"
+
+#: core/pluginBase/mec-fluent.php:209
+msgid ""
+"If you want to use the default color, you must clear the color of this item"
+msgstr ""
+"Wenn Sie die Standardfarbe verwenden möchten, müssen Sie die Farbe von "
+"diesem Element entfernen"
+
+#: core/pluginBase/mec-fluent.php:217
+msgid "Background Color"
+msgstr "Hintergrund Farbe"
+
+#: core/pluginBase/mec-fluent.php:223
+msgid "Bachground color"
+msgstr "Hintergrund Farbe"
+
+#: core/pluginBase/mec-fluent.php:225
+msgid ""
+"It is the color inside the shortcode and the sides. In some places it is the "
+"normal color of the buttons."
+msgstr ""
+"Dies ist die Farbe in den Shortcodes und den Seiten. In manchen Situationen "
+"ist es die normale Farbe der Buttons."
+
+#: core/pluginBase/mec-fluent.php:235
+msgid "Second Background Color"
+msgstr "Zweite Hintergrundfarbe"
+
+#: core/pluginBase/mec-fluent.php:241
+msgid "Second Bachground color"
+msgstr "Zweite Hintergrundfarbe"
+
+#: core/pluginBase/mec-fluent.php:243
+msgid ""
+"Similar to background color but for filtering section - background hover "
+"buttons for the slider and similar things"
+msgstr ""
+"So ähnlich wie die Hintergrundfarbe, aber für den Bereich mit den Filtern - "
+"Hintergrund Markierungsbuttons für die Slider und ähnliches Dinge"
+
+#: core/pluginBase/mec-fluent.php:253
+msgid ""
+"If you want to use the default color, you must clear the color of this item "
+"- this is work on background inside of all shortcode"
+msgstr ""
+"Wenn Sie die Standardfarbe verwenden möchten, müssen Sie die Farbe von "
+"diesem Element entfernen - dies funktioniert im Hintergrund in allen "
+"Shortcodes"
+
+#: core/pluginBase/mec-fluent.php:279
+msgid "Fluent Style"
+msgstr "Fluent Stil"
+
+#: core/pluginBase/mec-fluent.php:293 core/pluginBase/mec-fluent.php:308
+#: core/pluginBase/mec-fluent.php:340 core/pluginBase/mec-fluent.php:362
+#: core/pluginBase/mec-fluent.php:394 core/pluginBase/mec-fluent.php:724
+#: core/pluginBase/mec-fluent.php:906
+msgid "Fluent"
+msgstr "Fluent"
+
+#: core/pluginBase/mec-fluent.php:333 core/pluginBase/mec-fluent.php:355
+#: core/pluginBase/mec-fluent.php:387 core/pluginBase/mec-fluent.php:717
+#: core/pluginBase/mec-fluent.php:851 core/pluginBase/mec-fluent.php:899
+msgid "Style"
+msgstr "Stil"
+
+#: core/pluginBase/mec-fluent.php:337 core/pluginBase/mec-fluent.php:359
+#: core/pluginBase/mec-fluent.php:391 core/pluginBase/mec-fluent.php:721
+#: core/pluginBase/mec-fluent.php:855 core/pluginBase/mec-fluent.php:903
+msgid "Classic"
+msgstr "Klassisch"
+
+#: core/pluginBase/mec-fluent.php:409 core/pluginBase/mec-fluent.php:413
+#: core/pluginBase/mec-fluent.php:679 core/pluginBase/mec-fluent.php:683
+#: core/pluginBase/mec-fluent.php:865 core/pluginBase/mec-fluent.php:869
+msgid "Date Formats"
+msgstr "Datumsformat"
+
+#: core/pluginBase/mec-fluent.php:415
+msgid "Default value is \"F d, Y\""
+msgstr "Standardwert ist \"d. (Tag) F (Monat) Y (Jahr)\""
+
+#: core/pluginBase/mec-fluent.php:415 core/pluginBase/mec-fluent.php:685
+#: core/pluginBase/mec-fluent.php:871 core/skins/single/render.php:341
+#: core/skins/single/render.php:440
+msgid "Read More"
+msgstr "Weitere Details"
+
+#: core/pluginBase/mec-fluent.php:423 core/pluginBase/mec-fluent.php:751
+msgid "Display Event Price"
+msgstr "Zeige den Veranstaltungspreis an"
+
+#: core/pluginBase/mec-fluent.php:435 core/pluginBase/mec-fluent.php:763
+msgid "Display Available Tickets"
+msgstr "Zeige verfügbare Tickets an"
+
+#: core/pluginBase/mec-fluent.php:446 core/pluginBase/mec-fluent.php:461
+#: core/pluginBase/mec-fluent.php:476 core/pluginBase/mec-fluent.php:491
+#: core/pluginBase/mec-fluent.php:506 core/pluginBase/mec-fluent.php:521
+#: core/pluginBase/mec-fluent.php:536 core/pluginBase/mec-fluent.php:551
+#: core/pluginBase/mec-fluent.php:566 core/pluginBase/mec-fluent.php:581
+#: core/pluginBase/mec-fluent.php:596 core/pluginBase/mec-fluent.php:611
+#: core/pluginBase/mec-fluent.php:692 core/pluginBase/mec-fluent.php:774
+#: core/pluginBase/mec-fluent.php:826
+msgid "Wrapper Background Color"
+msgstr "Wrapper Hintergrundfarbe"
+
+#: core/pluginBase/mec-fluent.php:626
+msgid "Thumbnail Size"
+msgstr "Miniaturbildgröße"
+
+#: core/pluginBase/mec-fluent.php:685
+msgid "Default value is \"D, F d, Y\""
+msgstr ""
+"Standardwert ist \"D (Wochentagabkürzung), d (Tag). F (Monat) Y (Jahr)\" z."
+"B. Mon, 23. Januar 2021"
+
+#: core/pluginBase/mec-fluent.php:803
+msgid "Display Navigation"
+msgstr "Zeige die Navigation an"
+
+#: core/pluginBase/mec-fluent.php:815
+msgid "Display Dots Navigation"
+msgstr "Zeige die Punktnavigation an"
+
+#: core/pluginBase/mec-fluent.php:858
+msgid "Fluent Type1"
+msgstr "Fluent Typ 1"
+
+#: core/pluginBase/mec-fluent.php:861
+msgid "Fluent Type2"
+msgstr "Fluent Typ 2"
+
+#: core/pluginBase/mec-fluent.php:871
+msgid "Default value is \"F d\""
+msgstr "Standardwert ist \"d. (Tag) F (Monat)\""
+
+#: core/pluginBase/mec-fluent.php:961
+msgid "Search"
+msgstr "Suche"
+
+#: core/pluginBase/mec-fluent.php:997
+msgid "Address"
+msgstr "Adresse"
+
+#: core/pluginBase/mec-fluent.php:1020 core/pluginBase/mec-fluent.php:1021
+#: core/skins/available_spot/tpl.php:214 core/skins/available_spot/tpl.php:271
+#: core/skins/countdown/tpl.php:163
+msgid "DAY"
+msgstr "TAGE"
+
+#: core/pluginBase/mec-fluent.php:1022 core/pluginBase/mec-fluent.php:1023
+#: core/skins/available_spot/tpl.php:220 core/skins/available_spot/tpl.php:277
+#: core/skins/countdown/tpl.php:169
+msgid "HRS"
+msgstr "STD"
+
+#: core/pluginBase/mec-fluent.php:1024 core/pluginBase/mec-fluent.php:1025
+#: core/skins/available_spot/tpl.php:226 core/skins/available_spot/tpl.php:283
+#: core/skins/countdown/tpl.php:175
+msgid "MIN"
+msgstr "MIN"
+
+#: core/pluginBase/mec-fluent.php:1026 core/pluginBase/mec-fluent.php:1027
+#: core/skins/available_spot/tpl.php:232 core/skins/available_spot/tpl.php:289
+#: core/skins/countdown/tpl.php:181
+msgid "SEC"
+msgstr "SEK"
+
+#: core/skins/agenda/render.php:38 core/skins/available_spot/tpl.php:42
+#: core/skins/carousel/render.php:31 core/skins/countdown/tpl.php:27
+#: core/skins/cover/tpl.php:31 core/skins/daily_view/render.php:67
+#: core/skins/daily_view/render.php:209 core/skins/grid/render.php:47
+#: core/skins/list/render.php:60 core/skins/masonry/render.php:32
+#: core/skins/slider/render.php:57 core/skins/tile/render.php:40
+#: core/skins/timetable/render.php:68 core/skins/weekly_view/render.php:66
+#: core/skins/yearly_view/render.php:64
+msgid "Featured"
+msgstr "Hervorgehoben"
+
+#: core/skins/agenda/render.php:39 core/skins/available_spot/tpl.php:43
+#: core/skins/carousel/render.php:32 core/skins/countdown/tpl.php:29
+#: core/skins/cover/tpl.php:33 core/skins/daily_view/render.php:69
+#: core/skins/daily_view/render.php:213 core/skins/grid/render.php:48
+#: core/skins/list/render.php:62 core/skins/masonry/render.php:34
+#: core/skins/slider/render.php:58 core/skins/tile/render.php:41
+#: core/skins/timetable/render.php:70 core/skins/weekly_view/render.php:70
+#: core/skins/yearly_view/render.php:68
+msgid "Canceled"
+msgstr "Abgesagt"
+
+#: core/skins/agenda/tpl.php:67 core/skins/grid/render.php:186
+#: core/skins/list/render.php:233 core/skins/masonry/tpl.php:76
+#: core/skins/tile/tpl.php:138
+msgid "Load More"
+msgstr "Weitere anzeigen"
+
+#: core/skins/agenda/tpl.php:70 core/skins/agenda/tpl.php:77
+#: core/skins/carousel/tpl.php:58 core/skins/masonry/tpl.php:67
+#: core/skins/masonry/tpl.php:71 core/skins/slider/tpl.php:49
+msgid "No event found!"
+msgstr "Keine Veranstaltungen gefunden!"
+
+#: core/skins/available_spot/tpl.php:159 core/skins/available_spot/tpl.php:256
+#: core/skins/list/render.php:203 core/skins/slider/render.php:153
+msgid "Unlimited"
+msgstr "Unlimitiert"
+
+#: core/skins/available_spot/tpl.php:160 core/skins/available_spot/tpl.php:257
+msgid "Available Spot(s)"
+msgstr "Verfügbare Plätze"
+
+#: core/skins/available_spot/tpl.php:190 core/skins/available_spot/tpl.php:308
+#: core/skins/carousel/render.php:120 core/skins/countdown/tpl.php:198
+#: core/skins/cover/tpl.php:136 core/skins/grid/render.php:139
+#: core/skins/list/render.php:151 core/skins/masonry/render.php:224
+#: core/skins/single/render.php:127 core/skins/single/render.php:130
+#: core/skins/slider/render.php:162
+msgid "REGISTER"
+msgstr "ANMELDEN"
+
+#: core/skins/available_spot/tpl.php:190 core/skins/available_spot/tpl.php:308
+#: core/skins/carousel/render.php:120 core/skins/countdown/tpl.php:198
+#: core/skins/grid/render.php:139 core/skins/list/render.php:151
+#: core/skins/masonry/render.php:224 core/skins/slider/render.php:162
+msgid "View Detail"
+msgstr "Veranstaltungsdetails"
+
+#: core/skins/countdown/tpl.php:139
+#, php-format
+msgid "%s Upcoming Event"
+msgstr "%s Kommendes Event"
+
+#: core/skins/countdown/tpl.php:139
+msgid "Next"
+msgstr "Weiter"
+
+#: core/skins/cover/tpl.php:136
+msgid "Events Detail"
+msgstr "Veranstaltungsdetails"
+
+#: core/skins/daily_view/render.php:156 core/skins/daily_view/render.php:165
+#: core/skins/timetable/render.php:140 core/skins/timetable/render.php:151
+#: core/skins/weekly_view/render.php:197 core/skins/weekly_view/render.php:219
+#: core/skins/weekly_view/render.php:231
+msgid "Current time is"
+msgstr "Die aktuelle Uhrzeit ist"
+
+#: core/skins/daily_view/render.php:187 core/skins/yearly_view/render.php:35
+msgid "Events on"
+msgstr "Veranstaltungen am"
+
+#: core/skins/daily_view/render.php:287
+msgid "No events"
+msgstr "Keine Veranstaltungen"
+
+#: core/skins/daily_view/tpl.php:46
+msgid "Day"
+msgstr "Tag"
+
+#: core/skins/daily_view/tpl.php:80 core/skins/grid/tpl.php:79
+#: core/skins/list/tpl.php:79 core/skins/monthly_view/tpl.php:73
+#: core/skins/tile/tpl.php:80 core/skins/yearly_view/tpl.php:68
+msgid "Events"
+msgstr "Veranstaltungen"
+
+#: core/skins/daily_view/tpl.php:81 core/skins/grid/tpl.php:80
+#: core/skins/list/tpl.php:80 core/skins/monthly_view/tpl.php:74
+#: core/skins/tile/tpl.php:81 core/skins/yearly_view/tpl.php:69
+msgid "Event"
+msgstr "Veranstaltung"
+
+#: core/skins/full_calendar/tpl.php:72 core/skins/full_calendar/tpl.php:123
+#: core/skins/full_calendar/tpl.php:176
+msgid "Yearly"
+msgstr "Jährlich"
+
+#: core/skins/full_calendar/tpl.php:78 core/skins/full_calendar/tpl.php:129
+#: core/skins/full_calendar/tpl.php:182
+msgid "Monthly"
+msgstr "Monatlich"
+
+#: core/skins/full_calendar/tpl.php:84 core/skins/full_calendar/tpl.php:135
+#: core/skins/full_calendar/tpl.php:188
+msgid "Weekly"
+msgstr "Wöchentlich"
+
+#: core/skins/full_calendar/tpl.php:90 core/skins/full_calendar/tpl.php:141
+#: core/skins/full_calendar/tpl.php:194
+msgid "Daily"
+msgstr "Täglich"
+
+#: core/skins/full_calendar/tpl.php:96 core/skins/full_calendar/tpl.php:147
+#: core/skins/full_calendar/tpl.php:200
+msgid "List"
+msgstr "Liste / Listenansicht"
+
+#: core/skins/full_calendar/tpl.php:102 core/skins/full_calendar/tpl.php:153
+#: core/skins/full_calendar/tpl.php:206
+msgid "Grid"
+msgstr "Raster"
+
+#: core/skins/full_calendar/tpl.php:108 core/skins/full_calendar/tpl.php:159
+#: core/skins/full_calendar/tpl.php:212
+msgid "Tile"
+msgstr "Kachel"
+
+#: core/skins/grid/render.php:176 core/skins/list/render.php:223
+#: core/skins/weekly_view/render.php:171
+msgid "No Events"
+msgstr "Keine Veranstaltungen"
+
+#: core/skins/list/render.php:193 core/skins/slider/render.php:143
+msgid "Price:"
+msgstr "Preis"
+
+#: core/skins/list/render.php:202 core/skins/slider/render.php:152
+msgid "Available Tickets:"
+msgstr "Verfügbare Tickets:"
+
+#: core/skins/monthly_view/render.php:10
+msgid "MON"
+msgstr "MO"
+
+#: core/skins/monthly_view/render.php:13
+msgid "TUE"
+msgstr "DI"
+
+#: core/skins/monthly_view/render.php:16
+msgid "WED"
+msgstr "MI"
+
+#: core/skins/monthly_view/render.php:19
+msgid "THU"
+msgstr "DO"
+
+#: core/skins/monthly_view/render.php:22
+msgid "FRI"
+msgstr "FR"
+
+#: core/skins/monthly_view/render.php:25
+msgid "SAT"
+msgstr "SA"
+
+#: core/skins/monthly_view/render.php:28
+msgid "SUN"
+msgstr "SO"
+
+#: core/skins/single/render.php:38 core/skins/single/render.php:77
+msgid "Date"
+msgstr "Gewünschtes Datum auswählen"
+
+#: core/skins/single/render.php:56 core/skins/single/render.php:95
+msgid "Time"
+msgstr "Uhrzeit"
+
+#: core/skins/single/render.php:60 core/skins/single/render.php:99
+msgid "All Day"
+msgstr "Ganztägig"
+
+#: core/skins/single/render.php:115
+msgid "Cost"
+msgstr "Preis"
+
+#: core/skins/single/render.php:177 core/skins/single/render.php:200
+msgid "Location"
+msgstr "Veranstaltungsort"
+
+#: core/skins/single/render.php:229
+msgid "Sold out!"
+msgstr "Ausverkauft!"
+
+#: core/skins/single/render.php:247
+msgid "Tags"
+msgstr "Schlagworte (Tags)"
+
+#: core/skins/single/render.php:260 core/skins/single/render.php:358
+msgid "Labels"
+msgstr "Labels"
+
+#: core/skins/single/render.php:278 core/skins/single/render.php:376
+msgid "Organizer"
+msgstr "Veranstalter"
+
+#: core/skins/single/render.php:287 core/skins/single/render.php:385
+msgid "Phone"
+msgstr "Telefon"
+
+#: core/skins/single/render.php:294 core/skins/single/render.php:392
+msgid "Email"
+msgstr "E-Mail"
+
+#: core/skins/single/render.php:301 core/skins/single/render.php:399
+msgid "Website"
+msgstr "Webseite"
+
+#: core/skins/single/render.php:340 core/skins/single/render.php:439
+msgid "More Info"
+msgstr "Weitere Infos"
+
+#: core/skins/weekly_view/tpl.php:97
+#, php-format
+msgid "Week %s"
+msgstr "Woche %s"
+
+#: mec-fluent-layouts.php:128 mec-fluent-layouts.php:157
+msgid ""
+"MEC Fluent Layouts is not working because you need to install latest version "
+"of Modern Events Calendar plugin"
+msgstr ""
+"MEC Fluent Layouts funktioniert nicht, weil Sie die neueste Version des "
+"Modern Events Calendar Plugins installieren müssen"
+
+#: mec-fluent-layouts.php:129 mec-fluent-layouts.php:158
+msgid "Minimum version required"
+msgstr ""
+
+#: mec-fluent-layouts.php:130 mec-fluent-layouts.php:159
+msgid "Update Modern Events Calendar Now"
+msgstr "Aktualisieren Sie den Modern Events Calendar jetzt"
+
+#: mec-fluent-layouts.php:221
+msgid ""
+"MEC Fluent-view Layouts is not working because you need to activate the "
+"Modern Events Calendar plugin."
+msgstr ""
+"MEC Fluent-view Layouts funktioniert nicht, weil Sie das Modern Events "
+"Calendar Plugin aktivieren müssen"
+
+#: mec-fluent-layouts.php:222
+msgid "Activate Modern Events Calendar Now"
+msgstr "Aktivieren Sie Modern Events Calendar jetzt"
+
+#: mec-fluent-layouts.php:228
+msgid ""
+"MEC Fluent-view Layouts is not working because you need to install the "
+"Modern Events Calendar plugin"
+msgstr ""
+"MEC Fluent-view Layouts funktioniert nicht, weil Sie das Modern Events "
+"Calendar Plugin installieren müssen"
+
+#: mec-fluent-layouts.php:229
+msgid "Install Modern Events Calendar Now"
+msgstr "Installieren Sie jetzt den Modern Events Calendar"
+
+#. Plugin Name of the plugin/theme
+msgid "MEC Fluent-view Layouts"
+msgstr "MEC Fluent-view Layouts"
+
+#. Plugin URI of the plugin/theme
+msgid "http://webnus.net/modern-events-calendar/"
+msgstr "http://webnus.net/modern-events-calendar/"
+
+#. Description of the plugin/theme
+msgid ""
+"This is free addon and you will have some new designs after activate it."
+msgstr ""
+"Dies ist ein kostenloses Add-On und nach der Aktivierung stehen Ihnen neue "
+"Designs zur Verfügung."
+
+#. Author of the plugin/theme
+msgid "Webnus"
+msgstr "Webnus"
+
+#. Author URI of the plugin/theme
+msgid "http://webnus.net"
+msgstr "http://webnus.net"
